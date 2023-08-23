@@ -20,8 +20,8 @@ In this project, I created a card that simulates a subscription to a music servi
 
 ### Links
 
-- Solution URL: [https://github.com/MatiasFrascino/product-preview](https://matiasfrascino.github.io/product-preview/)
-- Live Site URL: [https://matiasfrascino.github.io/product-preview/](https://matiasfrascino.github.io/product-preview/)
+- Solution URL: [https://github.com/MatiasFrascino/order-preview](https://github.com/MatiasFrascino/order-preview)
+- Live Site URL: [https://matiasfrascino.github.io/order-preview/](https://matiasfrascino.github.io/order-preview/)
 
 ## My process
 
